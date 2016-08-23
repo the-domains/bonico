@@ -1,0 +1,14 @@
+layout_spectrum: 0.9240297651849687
+typography_spectrum: 0.4595801888499409
+color:
+  brandStrength: 0.47201760159805417
+  lightness: 0.5637578305322677
+  saturation: 0.5643673504237086
+  rhythmicContrast: 0.5942469479050487
+  brandColors:
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+name: Bonico
